@@ -1,0 +1,26 @@
+{
+  "name": "eva-dark-contrast-theme",
+  "displayName": "Eva Dark Contrast",
+  "description": "A high-contrast dark theme based on Eva Dark, with custom accents.",
+  "version": "1.0.0",
+  "publisher": "DaniyalAkbar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daniyal7akbar/eva-dark-contrast-theme"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Eva Dark Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eva-dark-contrast-color-theme.json"
+      }
+    ]
+  }
+}
