@@ -4,7 +4,7 @@ A custom dark VS Code theme, based on Eva Dark with darker chrome (tabs bar, ter
 
 
 
-![Eva Dark Contrast screenshot](./images/sample.png)
+![Eva Dark Contrast screenshot](./images/sample.png) 
 
 ## Install
 
