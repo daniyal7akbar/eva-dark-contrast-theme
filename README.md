@@ -28,8 +28,8 @@ cd eva-dark-contrast-theme
 vsce package
 ```
 
-This produces `eva-dark-contrast-theme-1.0.0.vsix`, installable via:
+This produces `eva-dark-contrast-theme-1.0.2.vsix`, installable via:
 
 ```bash
-code --install-extension eva-dark-contrast-theme-1.0.0.vsix
+code --install-extension eva-dark-contrast-theme-1.0.2.vsix
 ```
