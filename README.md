@@ -2,6 +2,10 @@
 
 A custom dark VS Code theme, based on Eva Dark with darker chrome (tabs bar, terminal) and a purple accent.
 
+
+
+![Eva Dark Contrast screenshot](./images/sample.png)
+
 ## Install
 
 Search for **Eva Dark Contrast** in the VS Code Extensions panel, or install from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=DaniyalAkbar.eva-dark-contrast-theme):
