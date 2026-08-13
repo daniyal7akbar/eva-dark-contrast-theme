@@ -4,6 +4,7 @@
   "description": "A high-contrast dark theme based on Eva Dark, with custom accents.",
   "version": "1.0.1",
   "publisher": "DaniyalAkbar",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/daniyal7akbar/eva-dark-contrast-theme"
